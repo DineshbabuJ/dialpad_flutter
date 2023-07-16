@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360980062301",
+    "project_id": "dialpad-d8fba",
+    "storage_bucket": "dialpad-d8fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360980062301:android:00333e467d3affb50eedb4",
+        "android_client_info": {
+          "package_name": "in.levitatestudios.dummy.practice_appp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360980062301-l587rlij9ot5e3rku7m4g2stg3g1tqp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wyJd_hT4_NyT3UTGvpujWPCT00WZx8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360980062301-l587rlij9ot5e3rku7m4g2stg3g1tqp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
